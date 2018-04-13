@@ -1,3 +1,8 @@
 code tao lao boi Kim Hung
 open file - cd demo-github
 tao file - touch test.txt
+xem trang thai - git status, mot file da them vao ma ta chua biet
+them file vao - git add test.txt
+them thay doi - git commit "them file test"
+xem thay doi - git log
+dua len repos - git push
